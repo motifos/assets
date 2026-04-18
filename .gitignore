@@ -1,0 +1,6 @@
+# GitHub CLI files
+gh_*.zip
+gh_*/
+
+# macOS
+.DS_Store
